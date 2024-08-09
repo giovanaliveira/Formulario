@@ -53,7 +53,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Validação no envio do formulário
     form.addEventListener('submit', function(event) {
-        if (nome.value.trim().length < 2 || !regexEmail.test(email.value.trim()) || mensagem.value.trim().length < 10) {
+        if (nome.value.trim().length < 5 || !regexEmail.test(email.value.trim()) || mensagem.value.trim().length < 10) {
             event.preventDefault();
             alert('Por favor, corrija os erros no formulário antes de enviar.');
         }

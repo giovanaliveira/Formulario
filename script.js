@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     // Validação do campo Nome
     nome.addEventListener('input', function() {
-        if (nome.value.trim().length < 2) {
+        if (nome.value.trim().length < 5) {
             mostrarErro(nome, 'O campo Nome deve ter pelo menos 2 caracteres.');
         } else {
             limparErro(nome);

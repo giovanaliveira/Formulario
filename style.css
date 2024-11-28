@@ -4,7 +4,7 @@ form {
     padding: 20px;
     border: 1px solid #000000;
     border-radius: 10px;
-    background-color: #ffccfc;
+    background-color: #790707;
   }
   
   label {
@@ -19,12 +19,12 @@ form {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
-    border: 1px solid #ffc0c0;
+    border: 1px solid #790707;
     border-radius: 5px;
   }
   
   input[type="submit"] {
-    background-color: #ff8484;
+    background-color: #790707;
     color: rgb(0, 0, 0);
     padding: 10px 20px;
     border: none;
@@ -36,8 +36,8 @@ form {
     background-color: #000000;
   }
   .aviso{
-    background-color: #fd6de5;
-    color: rgb(0, 0, 0);
+    background-color: #ffffff;
+    color: rgb(105, 4, 4);
     border-radius: 5px;
     text-align: center;
     font-size: 14px; /* Tamanho da fonte alterado para 14px */
@@ -46,7 +46,7 @@ form {
   
   h2 {
 text-align: center;
-color: #ea87f3;
+color: #770404;
 
 
 

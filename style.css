@@ -2,9 +2,13 @@ form {
     max-width: 500px;
     margin: 0 auto;
     padding: 20px;
-    border: 1px solid #000000;
+    border: 1px solid #8f0000;
     border-radius: 10px;
+<<<<<<< HEAD
     background-color: #790707;
+=======
+    background-color: #8f0000;
+>>>>>>> 4c817df76572212072acec01c4dede36c73af485
   }
   
   label {
@@ -19,12 +23,20 @@ form {
     width: 100%;
     padding: 8px;
     margin-bottom: 10px;
+<<<<<<< HEAD
     border: 1px solid #790707;
+=======
+    border: 1px solid #970000;
+>>>>>>> 4c817df76572212072acec01c4dede36c73af485
     border-radius: 5px;
   }
   
   input[type="submit"] {
+<<<<<<< HEAD
     background-color: #790707;
+=======
+    background-color: #f30000;
+>>>>>>> 4c817df76572212072acec01c4dede36c73af485
     color: rgb(0, 0, 0);
     padding: 10px 20px;
     border: none;
@@ -33,11 +45,15 @@ form {
   }
   
   input[type="submit"]:hover {
-    background-color: #000000;
+    background-color: #ffffff;
   }
   .aviso{
     background-color: #ff0000;
+<<<<<<< HEAD
     color: rgb(105, 4, 4);
+=======
+    color: rgb(0, 0, 0);
+>>>>>>> 4c817df76572212072acec01c4dede36c73af485
     border-radius: 5px;
     text-align: center;
     font-size: 14px; /* Tamanho da fonte alterado para 14px */
@@ -46,7 +62,11 @@ form {
   
   h2 {
 text-align: center;
+<<<<<<< HEAD
 color: #770404;
+=======
+color: #000000;
+>>>>>>> 4c817df76572212072acec01c4dede36c73af485
 
 
 
